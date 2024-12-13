@@ -1,6 +1,5 @@
 # bindu-sree-veeravalli.github.io
 Hello Welcome to my Resume
-Sure! Here's the content from your document converted to GitHub Markdown:
 
 # VEERAVALLI BINDU SREE
 
