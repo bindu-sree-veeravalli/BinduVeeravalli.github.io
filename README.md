@@ -1,6 +1,3 @@
-# bindu-sree-veeravalli.github.io
-Hello Welcome to my Resume
-
 # VEERAVALLI BINDU SREE
 
 Veeravalli Bindu Sree - LinkedIn  
