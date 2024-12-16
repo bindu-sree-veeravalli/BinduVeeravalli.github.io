@@ -50,6 +50,10 @@ Mar 2022 - May 2022
 
 ## PROJECTS
 
+[Life Expectancy Project](https://github.com/bindu-sree-veeravalli/Project_Life_Expectancy/blob/main/life_expectancy_project.ipynb)
+
+
+
 **Product Management System**  
 Technologies: Spring Boot, MySQL, Docker, Kubernetes, GCP  
 - Admin and login page help the user to register and enter into the products page and can perform functionalities such as add product, save, update, delete, pagination, and sorting.
