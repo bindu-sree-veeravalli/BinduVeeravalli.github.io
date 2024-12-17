@@ -50,9 +50,7 @@ Mar 2022 - May 2022
 
 ## PROJECTS
 
-[Life Expectancy Project](https://github.com/bindu-sree-veeravalli/Project_Life_Expectancy/blob/main/life_expectancy_project.ipynb)
-
-
+[Life Expectancy Project](https://github.com/bindu-sree-veeravalli/Project_Life_Expectancy/blob/main/life_expectancy_project%20(1).ipynb)
 
 **Product Management System**  
 Technologies: Spring Boot, MySQL, Docker, Kubernetes, GCP  
